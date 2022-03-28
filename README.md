@@ -1,4 +1,4 @@
-I am a researcher interested in ML, algorithms and optimization.
+I am a researcher interested in ML, algorithms, and optimization.
 
 <!---
 slaue/slaue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
